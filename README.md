@@ -93,10 +93,10 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zayn329&show_icons=true&theme=radial&include_all_commits=true" alt="Zayn329's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Zayn329&show_icons=true&theme=radial&include_all_commits=true" alt="Zayn329's GitHub Stats" />
 
   <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayn329&layout=compact&theme=radial&hide=TeX" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Zayn329&layout=compact&theme=radial&hide=TeX" alt="Top Languages" />
 </div>
 
 <br/>
