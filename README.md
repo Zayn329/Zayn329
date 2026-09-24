@@ -1,4 +1,4 @@
-# Hi there, I'm Zainulabideen Pawle 👋
+# Hi there, I'm Zain Pawle 👋
 
 ### 🤖 AI Engineer & ⚙️ Backend Systems Developer
 
@@ -67,25 +67,26 @@
 
 ---
 
-## 🚀 Recent Projects
+## 🚀 Featured Projects
 
 1. **[Medi Kiosk](https://github.com/Zayn329)**
-   - Smart healthcare kiosk platform featuring automated triage workflows, real-time diagnostic backend service integration, and scalable patient queue processing.
+   - **Automated Healthcare & Triage Kiosk:** Built a smart healthcare kiosk platform featuring automated patient triage workflows, real-time diagnostic backend service integrations, asynchronous patient queue processing, and operational telemetry routing.
 
-2. **[StockWorld](https://github.com/Zayn329/stock-world-ml-model)**
-   - **Backend & ML Pipeline:** Engineered an AI-driven financial analysis engine combining **FinBERT** sentiment analysis with a **VotingClassifier Ensemble (CatBoost/XGBoost)** achieving **>90% F1-Score**. Integrated REST APIs to deliver low-latency market signals.
+2. **[Chimera AI](https://github.com/Zayn329/chimeraAi)**
+   - **Agentic RAG & Multi-Agent Swarm Orchestrator:** Engineered an advanced **Agentic RAG** system with **Hybrid Retrieval** using **LangGraph**, **LangChain**, and **FastAPI**. Features a `MasterRouter` agent for dynamic task dispatching across specialized swarm nodes (`tutor`, `strategist`, `bureaucrat`), persistent state check-pointing via **MongoDB**, vector memory indexing, and a semantic caching layer.
 
-3. **[SheGuard](https://github.com/Zayn329/SheGuard-forked)** & **[SheGuard Research](https://github.com/Zayn329/SheGuard_Research)**
-   - **Mobile & Architectural Research:** Built a safety ecosystem utilizing **Kotlin/Android Studio** with **Firebase** backend integrations. Includes a published technical paper repository detailing safety system architecture and real-time alert routing.
+3. **[SheGuard](https://github.com/Zayn329/SheGuard-forked)**
+   - **Offline-First Mobile Safety Architecture:** Engineered an offline-first safety system featuring Room local persistence, BLE/Wi-Fi Direct peer-to-peer mesh relay routing, and asynchronous backend synchronization.
+   - *Note:* Includes a research paper repository ([SheGuard_Research](https://github.com/Zayn329/SheGuard_Research)) detailing deterministic multimodal sensor fusion, SHA-256 cryptographic evidence sealing, and emergency mesh escalation protocols.
 
-4. **[Chimera AI](https://github.com/Zayn329/chimeraAi)**
-   - **AI Backend Architecture:** Designed an intelligent multimodal API engine orchestrating LLM request routing, contextual prompt engineering pipelines, and efficient token management for multi-agent tasks.
+4. **[TrustX — Trust Engine](https://github.com/Zayn329/TrustX)**
+   - **Decentralized Security Protocol:** Designed a trustless bug bounty platform featuring programmatic smart contract escrows, W3C Verifiable Credentials (DID) for portable researcher reputation, immutable vulnerability provenance, and AI-driven security submission verification.
 
-5. **[TrustX](https://github.com/Zayn329/TrustX)**
-   - **Decentralized & Secure Backend:** Engineered a secure backend service featuring RESTful API endpoints, robust cryptographic verification pipelines, and asynchronous database transactions.
+5. **[Aurora Command Platform](https://github.com/Zayn329/Aurora_prototype)**
+   - **Polar Expedition AI Command Engine (SIH):** Architected an offline-first command platform backed by an authoritative SQLite core and PWA IndexedDB offline replica. Features a deterministic dependency-graph constraint solver coupled with a Human-in-the-Loop advisory AI decision support boundary.
 
-6. **[Aurora Prototype](https://github.com/Zayn329/Aurora_prototype)**
-   - **Python AI Workflow:** Developed a modular Python prototyping framework focused on autonomous task execution and Agentic workflow evaluation.
+6. **[StockWorld](https://github.com/Zayn329/stock-world-ml-model)**
+   - **Explainable AI Financial Engine:** Built a **FastAPI** backend fusing **FinBERT/RoBERTa** financial text sentiment with fundamental data into a **VotingClassifier Ensemble (CatBoost/XGBoost)** achieving **>90% F1-Score**. Integrated SHAP/LIME for model explainability and adaptive drift detection.
 
 ---
 
